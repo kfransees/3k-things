@@ -1,5 +1,5 @@
 import Sample from './components/Sample.vue'
-import vuetify from '@/plugins/vuetify'
+import vuetify from './plugins/vuetify'
 
 export default {
   install: (Vue) => {

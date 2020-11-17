@@ -1,0 +1,27 @@
+{
+  "name": "3k-things",
+  "version": "1.0.0",
+  "description": "This package contains all components to be used in Vue and Nuxt projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfransees/3k-things.git"
+  },
+  "author": "Kian Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfransees/3k-things/issues"
+  },
+  "homepage": "https://github.com/kfransees/3k-things#readme",
+  "dependencies": {
+    "vuetify": "^2.3.17"
+  },
+  "devDependencies": {
+    "deepmerge": "^4.2.2",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
+}
